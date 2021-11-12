@@ -1,0 +1,80 @@
+.elementor-manual-block {
+	background-color: #d3e4f4;
+    border-color: #a9b6c2;
+    color: #5c80a1;
+	padding: 10px;
+    border-radius: 4px;
+}
+i.manual-elementor-icon  {
+	display: inline-block;
+	width: 32px;
+	height: 32px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: top left;
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+i.manual-elementor-icon.counter {
+	background-image: url(../img/vc_manual_counter.png);
+}
+i.manual-elementor-icon.team {
+	background-image: url(../img/vc_manual_team.png);
+}
+i.manual-elementor-icon.testimonials {
+	background-image: url(../img/vc_manual_testimonial.png);
+}
+i.manual-elementor-icon.knowledgebase {
+	background-image: url(../img/vc_manual_knowledgebase.png);
+}
+i.manual-elementor-icon.kb-category, i.manual-elementor-icon.faq_category  {
+	background-image: url(../img/vc_manual_widgets.png);
+}
+i.manual-elementor-icon.ajaxloaddocumentation, i.manual-elementor-icon.kb-tree-view {
+	background-image: url(../img/vc_manual_tree.png);
+}
+i.manual-elementor-icon.inlinedocumentation {
+	background-image: url(../img/vc_manual_inline.png);
+}
+i.manual-elementor-icon.portfolio {
+	background-image: url(../img/vc_manual_portfolio.png);
+}
+i.manual-elementor-icon.monitor_frame {
+	background-image: url(../img/vc_manual_monitor_img_frame.png);
+}
+i.manual-elementor-icon.catlanding_post_type {
+	background-image: url(../img/vc_manual_cat_landing_style.png);
+}
+i.manual-elementor-icon.kb-single-cat-records, i.manual-elementor-icon.faqrecord {
+	background-image: url(../img/vc_manual_faq_cat_record.png);
+}
+i.manual-elementor-icon.mega-post-grid {
+	background-image: url(../img/vc_manual_post_grid.png);
+}
+i.manual-elementor-icon.web-frame {
+	background-image: url(../img/vc_manual_web_browser_frame.png);
+}
+i.manual-elementor-icon.home-help-block {
+	background-image: url(../img/vc_manual_carousel.png);
+}
+i.manual-elementor-icon.documentation-article {
+	background-image: url(../img/vc_manual_doc_arc.png);
+}
+i.manual-elementor-icon.login-box {
+	background-image: url(../img/vc_manual_site_login.png);
+}
+i.manual-elementor-icon.postype-count-post {
+	background-image: url(../img/vc_manual_records_count.png);
+}
+i.manual-elementor-icon.search-box {
+	background-image: url(../img/vc_manual_search.png);
+}
+i.manual-elementor-icon.learnpress-course {
+	background-image: url(../img/vc_manual_course.png);
+}
+i.manual-elementor-icon.messange-box {
+	background-image: url(../img/vc_manual_messagebox.png);
+}
+i.manual-elementor-icon.pricing-table {
+	background-image: url(../img/vc_manual_pricing_table.png);
+}

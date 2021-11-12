@@ -1,0 +1,53 @@
+.redux-container .redux-main .select2-default {
+    width: auto !important;
+}
+.redux-container .redux-main .select2-container {
+	width: 60%!important;
+}
+.redux-container .redux-main .select2-container.select2-container-multi {
+	width: 100%!important;
+}
+.redux-container .redux-main .select2-container .select2-drop {
+	width: 50%!important;
+}
+.redux-container .redux-main .select2-container.redux-dimensions-units{
+    width: 120px !important;
+}
+.redux-main .redux-typography-container .select_wrapper.typography-family .select2-container, 
+.redux-main .redux-typography-container .select_wrapper.typography-family-backup .select2-container,
+.redux-main .redux-typography-container .select_wrapper.typography-style .select2-container,
+.redux-main .redux-typography-container .select_wrapper.typography-transform .select2-container{
+	width: 267px!important;
+}
+.redux-main #theme-h1-typography .select_wrapper.typography-family .select2-container, 
+.redux-main #theme-h1-typography .select_wrapper.typography-family-backup .select2-container,
+.redux-main #theme-h1-typography .select_wrapper.typography-style .select2-container,
+.redux-main #theme-h1-typography .select_wrapper.typography-transform .select2-container,
+.redux-main #theme-h2-typography .select_wrapper.typography-family .select2-container, 
+.redux-main #theme-h2-typography .select_wrapper.typography-family-backup .select2-container,
+.redux-main #theme-h2-typography .select_wrapper.typography-style .select2-container,
+.redux-main #theme-h2-typography .select_wrapper.typography-transform .select2-container,
+.redux-main #theme-h3-typography .select_wrapper.typography-family .select2-container, 
+.redux-main #theme-h3-typography .select_wrapper.typography-family-backup .select2-container,
+.redux-main #theme-h3-typography .select_wrapper.typography-style .select2-container,
+.redux-main #theme-h3-typography .select_wrapper.typography-transform .select2-container,
+.redux-main #theme-h4-typography .select_wrapper.typography-family .select2-container, 
+.redux-main #theme-h4-typography .select_wrapper.typography-family-backup .select2-container,
+.redux-main #theme-h4-typography .select_wrapper.typography-style .select2-container,
+.redux-main #theme-h4-typography .select_wrapper.typography-transform .select2-container,
+.redux-main #theme-h5-typography .select_wrapper.typography-family .select2-container, 
+.redux-main #theme-h5-typography .select_wrapper.typography-family-backup .select2-container,
+.redux-main #theme-h5-typography .select_wrapper.typography-style .select2-container,
+.redux-main #theme-h5-typography .select_wrapper.typography-transform .select2-container,
+.redux-main #theme-h6-typography .select_wrapper.typography-family .select2-container, 
+.redux-main #theme-h6-typography .select_wrapper.typography-family-backup .select2-container,
+.redux-main #theme-h6-typography .select_wrapper.typography-style .select2-container,
+.redux-main #theme-h6-typography .select_wrapper.typography-transform .select2-container {
+	width: 254px!important;
+}
+
+
+.lp-admin-tab-content .related-themes.widefat {
+	display:none;
+	
+}

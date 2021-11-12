@@ -1,0 +1,6 @@
+.jstree li {
+    margin-right: 18px!important;
+}
+.jstree a > .jstree-icon {
+    margin-left: 5px!important;
+}

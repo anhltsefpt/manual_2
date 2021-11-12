@@ -1,0 +1,5 @@
+<Project Sdk="PeachPied.WordPress.Build.Plugin/5.8.1-preview11">
+  <PropertyGroup>
+    <WpContentTarget>manual</WpContentTarget>
+  </PropertyGroup>
+</Project>

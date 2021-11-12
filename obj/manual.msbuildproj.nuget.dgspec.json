@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Admin/Desktop/manual_wordpress/2/themes/manual/manual.msbuildproj": {}
+  },
+  "projects": {
+    "/Users/Admin/Desktop/manual_wordpress/2/themes/manual/manual.msbuildproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Admin/Desktop/manual_wordpress/2/themes/manual/manual.msbuildproj",
+        "projectName": "manual",
+        "projectPath": "/Users/Admin/Desktop/manual_wordpress/2/themes/manual/manual.msbuildproj",
+        "packagesPath": "/Users/Admin/.nuget/packages/",
+        "outputPath": "/Users/Admin/Desktop/manual_wordpress/2/themes/manual/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/Admin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://feed.peachpie.io/wpdotnet/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "PeachPied.WordPress": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[5.8.1-preview11, 5.8.1-preview11]"
+            },
+            "Peachpie.App": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
